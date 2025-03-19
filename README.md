@@ -1,6 +1,8 @@
 ## Hi there 👋
 - I'm currently finishing my Bachelor's degree in bioinformatics.
 - I'm looking to collaborate in healthcare disparities research.
+- Contact: sstarks22@ole.augie.edu
+- Pronouns: she/they
 
 
 <!--
